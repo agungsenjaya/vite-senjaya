@@ -1,7 +1,7 @@
 {
   "name": "vite-senjaya",
   "private": false,
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -14,6 +14,8 @@
     "url": "https://github.com/agungsenjaya/vite-senjaya.git"
   },
   "dependencies": {
+    "astro-senjaya": "^1.0.0",
+    "blocktea": "^1.0.0",
     "iframe-website": "^0.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
